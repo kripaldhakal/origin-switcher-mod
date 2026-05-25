@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="originswitcher.client" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="originswitcher" options="&quot;-AoutRefMapFile=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\classes\java\main\originswitcher-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.main.tiny&quot; &quot;-AinMapFileNamedIntermediary=C:\Users\L E N O V O\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2\mappings.tiny&quot;" />
+      <module name="originswitcher.client" options="&quot;-AoutRefMapFile=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\classes\java\client\client-originswitcher-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.client.tiny&quot; &quot;-AinMapFileNamedIntermediary=C:\Users\L E N O V O\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2\mappings.tiny&quot;" />
+      <module name="originswitcher.main" options="&quot;-AoutRefMapFile=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\classes\java\main\originswitcher-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.main.tiny&quot; &quot;-AinMapFileNamedIntermediary=C:\Users\L E N O V O\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2\mappings.tiny&quot;" />
+      <module name="originswitcher.test" options="&quot;-AoutRefMapFile=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\classes\java\test\test-originswitcher-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\L E N O V O\Downloads\origin-switcher-mod\origin-switcher\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.test.tiny&quot; &quot;-AinMapFileNamedIntermediary=C:\Users\L E N O V O\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2\mappings.tiny&quot;" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "originswitcher",
+  "version": "${version}",
+  "name": "Origin Switcher",
+  "description": "Client-side mod to change your Origins++ origin without requiring Origins on the server.",
+  "authors": ["YourName"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/originswitcher/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.originswitcher.OriginSwitcherClient"
+    ]
+  },
+  "mixins": [
+    "originswitcher.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "origins": "*"
+  },
+  "suggests": {}
+}
